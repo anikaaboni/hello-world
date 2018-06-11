@@ -36,6 +36,7 @@ int main()
         if(flag == 1)
         {
             cout<<"YES"<<endl;
+            cout << "DONE" <<endl;
         }
         else
         {
